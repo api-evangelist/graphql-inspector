@@ -1,0 +1,69 @@
+aid: graphql-inspector
+name: GraphQL Inspector
+description: Schema change detection and validation tooling that checks for breaking
+  changes, deprecated fields, and coverage gaps between GraphQL schema versions,
+  available as CLI, CI, and GitHub Action.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/graphql-inspector/refs/heads/main/apis.yml
+created: '2026-06-14'
+modified: '2026-06-14'
+specificationVersion: '0.19'
+type: Index
+tags:
+- GraphQL
+- Schema Validation
+- Breaking Change Detection
+- Developer Tools
+- Open Source
+- CI/CD
+- GitHub Actions
+apis:
+- aid: graphql-inspector:graphql-inspector-cli
+  name: GraphQL Inspector CLI
+  description: Command-line tool for comparing two GraphQL schemas and generating
+    a detailed list of breaking, non-breaking, and dangerous changes. Also validates
+    documents and fragments, measures schema coverage, and introspects live GraphQL
+    endpoints. Installable via npm as @graphql-inspector/cli.
+  image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+  humanURL: https://the-guild.dev/graphql/inspector/docs
+  contact:
+  - FN: GraphQL Inspector Support
+    url: https://github.com/graphql-hive/graphql-inspector/issues
+  tags:
+  - GraphQL
+  - Schema Validation
+  - Breaking Change Detection
+  - CLI
+  - Open Source
+  properties:
+  - type: Documentation
+    url: https://the-guild.dev/graphql/inspector/docs
+  - type: InstallationGuide
+    url: https://the-guild.dev/graphql/inspector/docs/installation
+  - type: GitHubRepository
+    url: https://github.com/graphql-hive/graphql-inspector
+  - type: GraphQL
+    url: graphql/graphql-inspector-graphql.md
+  overlays: []
+common:
+- type: Website
+  url: https://the-guild.dev/graphql/inspector
+- type: Documentation
+  url: https://the-guild.dev/graphql/inspector/docs
+- type: GitHubOrganization
+  url: https://github.com/graphql-hive
+- type: LinkedIn
+  url: https://www.linkedin.com/company/the-guild-software
+- type: Blog
+  url: https://the-guild.dev/blog/tag/graphql-inspector
+- type: Pricing
+  url: https://github.com/marketplace/graphql-inspector
+- type: Plans
+  url: plans/graphql-inspector-plans.md
+- type: RateLimits
+  url: rate-limits/graphql-inspector-rate-limits.md
+- type: FinOps
+  url: finops/graphql-inspector-finops.md
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
