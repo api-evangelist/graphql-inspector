@@ -3,7 +3,7 @@ name: GraphQL Inspector
 description: Schema change detection and validation tooling that checks for breaking
   changes, deprecated fields, and coverage gaps between GraphQL schema versions,
   available as CLI, CI, and GitHub Action.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/graphql-inspector/refs/heads/main/apis.yml
 created: '2026-06-14'
 modified: '2026-06-14'
@@ -24,7 +24,7 @@ apis:
     a detailed list of breaking, non-breaking, and dangerous changes. Also validates
     documents and fragments, measures schema coverage, and introspects live GraphQL
     endpoints. Installable via npm as @graphql-inspector/cli.
-  image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
   humanURL: https://the-guild.dev/graphql/inspector/docs
   contact:
   - FN: GraphQL Inspector Support
