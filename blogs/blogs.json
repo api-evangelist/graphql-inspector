@@ -1,0 +1,21 @@
+{
+  "repo": "graphql-inspector",
+  "feeds": [
+    {
+      "source": "https://the-guild.dev/blog/tag/graphql-inspector",
+      "feed_url": "https://the-guild.dev/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-guild-software",
+      "feed_url": "https://www.linkedin.com/company/the-guild-software",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-06-27T12:03:07Z",
+  "post_count": 6
+}
