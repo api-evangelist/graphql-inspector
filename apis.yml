@@ -46,6 +46,8 @@ apis:
     url: graphql/graphql-inspector-graphql.md
   overlays: []
 common:
+- type: DomainSecurity
+  url: security/graphql-inspector-domain-security.yml
 - type: Website
   url: https://the-guild.dev/graphql/inspector
 - type: Documentation
